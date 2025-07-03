@@ -52,7 +52,7 @@ pip install -r requirements.txt
 
 2. **Ensure your directory structure looks like:**
    ```
-   paper/
+   /
    ├── perceptron.py
    ├── requirements.txt
    ├── README.md
