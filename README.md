@@ -1,6 +1,6 @@
 # Perceptron Image Classification Project
 
-A NumPy-based perceptron implementation for binary image classification using PIL for image processing and matplotlib for visualization.
+A Working model of Perceptron based on Frank Rosenblatt's 1959 paper, "Perceptron Simulation Experiment"
 
 ## Overview
 
